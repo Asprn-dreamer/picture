@@ -1,0 +1,7 @@
+{
+  "name": "Copy of JJBo扒图助手 - 网页资源扒取助手",
+  "description": "专业级电商网页图片与视频提取工具，支持主图、详情图、视频的智能解析与一键导出。",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ]
+}
